@@ -44,4 +44,3 @@ Hi! I'm Pratham Basnet, a full-stack developer passionate about coding, open sou
 - [![Portfolio](https://img.icons8.com/ios/50/domain.png)](https://misterpratham.github.io/Pratham-Basnet)
 - [![Email](https://img.icons8.com/ios/50/email.png)](mailto:prathambasnet963@gmail.com)
 - [![LinkedIn](https://img.icons8.com/ios/50/linkedin.png)](https://www.linkedin.com/in/prathambasnet99/)
-
