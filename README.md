@@ -38,9 +38,21 @@ Hi! I'm Pratham Basnet, a full-stack developer passionate about coding, open sou
 
 ### Connect with Me
 
-- [![Facebook](https://img.icons8.com/color/50/000000/facebook.png)](https://www.facebook.com/basnetpratham){:target="_blank"}
-- [![Instagram](https://img.icons8.com/color/50/000000/instagram.png)](https://www.instagram.com/basnetpratham){:target="_blank"}
-- [![WhatsApp](https://img.icons8.com/color/50/000000/whatsapp.png)](https://api.whatsapp.com/send/?phone=9779704543535&text=Hi%2C+I+need+help%21&type=phone_number&app_absent=0){:target="_blank"}
-- [![Portfolio](https://img.icons8.com/color/50/000000/domain.png)](https://misterpratham.github.io/Pratham-Basnet){:target="_blank"}
-- [![Email](https://img.icons8.com/color/50/000000/email.png)](mailto:prathambasnet963@gmail.com){:target="_blank"}
-- [![LinkedIn](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/prathambasnet99/){:target="_blank"}
+- <a href="https://www.facebook.com/basnetpratham" target="_blank">
+  <img src="https://img.icons8.com/color/50/000000/facebook.png" alt="Facebook"/>
+</a>
+- <a href="https://www.instagram.com/basnetpratham" target="_blank">
+  <img src="https://img.icons8.com/color/50/000000/instagram.png" alt="Instagram"/>
+</a>
+- <a href="https://api.whatsapp.com/send/?phone=9779704543535&text=Hi%2C+I+need+help%21&type=phone_number&app_absent=0" target="_blank">
+  <img src="https://img.icons8.com/color/50/000000/whatsapp.png" alt="WhatsApp"/>
+</a>
+- <a href="https://misterpratham.github.io/Pratham-Basnet" target="_blank">
+  <img src="https://img.icons8.com/color/50/000000/domain.png" alt="Portfolio"/>
+</a>
+- <a href="mailto:prathambasnet963@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/color/50/000000/email.png" alt="Email"/>
+</a>
+- <a href="https://www.linkedin.com/in/prathambasnet99/" target="_blank">
+  <img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="LinkedIn"/>
+</a>
