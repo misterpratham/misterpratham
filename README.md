@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-![Header Banner](https://your-image-url/banner.png)
+![Header Banner]([https://your-image-url/banner.png](https://github.com/account))
 
 ## 🚀 About Me
 Hi! I'm Pratham Basnet, a full-stack developer passionate about coding, open source, and solving problems.
@@ -38,6 +38,6 @@ Hi! I'm Pratham Basnet, a full-stack developer passionate about coding, open sou
 
 ## 📫 Let's Connect!
 
-![Email](https://img.icons8.com/color/48/000000/email.png) yourname@example.com  
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.icons8.com/color/48/000000/domain.png)](https://your-portfolio.com)
+![Email](https://img.icons8.com/color/48/000000/email.png) prathambasnet963@gmail.com  
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/prathambasnet99/))  
+[![Portfolio](https://img.icons8.com/color/48/000000/domain.png)]([https://your-portfolio.com](https://github.com/misterpratham))
