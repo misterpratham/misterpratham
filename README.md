@@ -24,8 +24,8 @@ Hi! I'm Pratham Basnet, a full-stack developer passionate about coding, open sou
 
 ## 🌟 Featured Projects
 
-[![Project 1 Thumbnail](https://your-image-url/project1.png)](https://github.com/misterpratham/project1)
-[![Project 2 Thumbnail](https://your-image-url/project2.png)](https://github.com/misterpratham/project2)
+[![Project 1 Thumbnail](https://your-image-url/project1.png)](https://github.com/misterpratham/qrcode)
+[![Project 2 Thumbnail](https://your-image-url/project2.png)](https://github.com/misterpratham/Password-Encryption)
 
 ---
 
