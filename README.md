@@ -12,10 +12,11 @@ Hi! I'm Pratham Basnet, a full-stack developer passionate about coding, open sou
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![Tailwind CSS](https://img.icons8.com/fluency/48/tailwindcss.png)
-![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-![Bootstrap Logo](https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg)
+![Tailwind CSS](https://img.icons8.com/ios/48/tailwind.png)
+![React Logo](https://img.icons8.com/ios/48/react-native.png)
+![Bootstrap Logo](https://img.icons8.com/ios/48/bootstrap.png)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
+
 
 
 
