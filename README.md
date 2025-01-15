@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-![Header Banner]([(https://github.com/account)](https://avatars.githubusercontent.com/u/175622929?v=4))
+![Header Banner]([(https://avatars.githubusercontent.com/u/175622929?v=4))
 
 ## 🚀 About Me
 Hi! I'm Pratham Basnet, a full-stack developer passionate about coding, open source, and solving problems.
