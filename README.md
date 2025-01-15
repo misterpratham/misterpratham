@@ -38,9 +38,9 @@ Hi! I'm Pratham Basnet, a full-stack developer passionate about coding, open sou
 
 ### Connect with Me
 
-- [![Facebook](https://img.icons8.com/color/50/000000/facebook.png)](https://www.facebook.com/basnetpratham)
-- [![Instagram](https://img.icons8.com/color/50/000000/instagram.png)](https://www.instagram.com/basnetpratham)
-- [![WhatsApp](https://img.icons8.com/color/50/000000/whatsapp.png)](https://api.whatsapp.com/send/?phone=9779704543535&text=Hi%2C+I+need+help%21&type=phone_number&app_absent=0)
-- [![Portfolio](https://img.icons8.com/color/50/000000/domain.png)](https://misterpratham.github.io/Pratham-Basnet)
-- [![Email](https://img.icons8.com/color/50/000000/email.png)](mailto:prathambasnet963@gmail.com)
-- [![LinkedIn](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/prathambasnet99/)
+[![Facebook](https://img.icons8.com/color/50/000000/facebook.png)](https://www.facebook.com/basnetpratham)
+[![Instagram](https://img.icons8.com/color/50/000000/instagram.png)](https://www.instagram.com/basnetpratham)
+[![WhatsApp](https://img.icons8.com/color/50/000000/whatsapp.png)](https://api.whatsapp.com/send/?phone=9779704543535&text=Hi%2C+I+need+help%21&type=phone_number&app_absent=0)
+[![Portfolio](https://img.icons8.com/color/50/000000/domain.png)](https://misterpratham.github.io/Pratham-Basnet)
+[![Email](https://img.icons8.com/color/50/000000/email.png)](mailto:prathambasnet963@gmail.com)
+[![LinkedIn](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/prathambasnet99/)
