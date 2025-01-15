@@ -24,15 +24,15 @@ Hi! I'm Pratham Basnet, a full-stack developer passionate about coding, open sou
 
 ## 🌟 Featured Projects
 
-[![Project 1 Thumbnail](https://your-image-url/project1.png)](https://github.com/username/project1)
-[![Project 2 Thumbnail](https://your-image-url/project2.png)](https://github.com/username/project2)
+[![Project 1 Thumbnail](https://your-image-url/project1.png)](https://github.com/misterpratham/project1)
+[![Project 2 Thumbnail](https://your-image-url/project2.png)](https://github.com/misterpratham/project2)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=misterpratham&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=misterpratham&layout=compact&theme=radical)
 
 ---
 
