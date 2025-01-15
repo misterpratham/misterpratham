@@ -12,7 +12,8 @@ Hi! I'm Pratham Basnet, a full-stack developer passionate about coding, open sou
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![Tailwind CSS]([https://icons8.com/icon/CIAZz2CYc6Kc/color/48/tailwind.png)
+![image](https://github.com/user-attachments/assets/30d09ee2-c141-49c2-8972-d22d7f8f0e0c/48)
+
 ![React Logo](https://img.icons8.com/color/48/react-native.png)
 ![Bootstrap Logo](https://img.icons8.com/color/48/bootstrap.png)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
