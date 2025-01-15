@@ -39,20 +39,20 @@ Hi! I'm Pratham Basnet, a full-stack developer passionate about coding, open sou
 ### Connect with Me
 
 - <a href="https://www.facebook.com/basnetpratham" target="_blank">
-  <img src="https://img.icons8.com/color/50/000000/facebook.png" alt="Facebook"/>
+  <img src="https://img.icons8.com/color/50/000000/facebook.png" alt="Facebook" width="50" />
 </a>
 - <a href="https://www.instagram.com/basnetpratham" target="_blank">
-  <img src="https://img.icons8.com/color/50/000000/instagram.png" alt="Instagram"/>
+  <img src="https://img.icons8.com/color/50/000000/instagram.png" alt="Instagram" width="50" />
 </a>
 - <a href="https://api.whatsapp.com/send/?phone=9779704543535&text=Hi%2C+I+need+help%21&type=phone_number&app_absent=0" target="_blank">
-  <img src="https://img.icons8.com/color/50/000000/whatsapp.png" alt="WhatsApp"/>
+  <img src="https://img.icons8.com/color/50/000000/whatsapp.png" alt="WhatsApp" width="50" />
 </a>
 - <a href="https://misterpratham.github.io/Pratham-Basnet" target="_blank">
-  <img src="https://img.icons8.com/color/50/000000/domain.png" alt="Portfolio"/>
+  <img src="https://img.icons8.com/color/50/000000/domain.png" alt="Portfolio" width="50" />
 </a>
 - <a href="mailto:prathambasnet963@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/color/50/000000/email.png" alt="Email"/>
+  <img src="https://img.icons8.com/color/50/000000/email.png" alt="Email" width="50" />
 </a>
 - <a href="https://www.linkedin.com/in/prathambasnet99/" target="_blank">
-  <img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="LinkedIn"/>
+  <img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="LinkedIn" width="50" />
 </a>
