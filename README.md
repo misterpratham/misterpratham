@@ -3,7 +3,7 @@
 ![Header Banner](https://your-image-url/banner.png)
 
 ## 🚀 About Me
-Hi! I'm [Your Name], a full-stack developer passionate about coding, open source, and solving problems.
+Hi! I'm Pratham Basnet, a full-stack developer passionate about coding, open source, and solving problems.
 
 ---
 
@@ -12,6 +12,9 @@ Hi! I'm [Your Name], a full-stack developer passionate about coding, open source
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+[![Tailwind Styled Preview](https://via.placeholder.com/400)](https://your-live-link.com)
+![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+![Bootstrap Logo](https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 
 ---
