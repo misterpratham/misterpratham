@@ -1,9 +1,9 @@
 # 👋 Welcome to My GitHub Profile!
 
-![Header Banner]([https://github.com/misterpratham])
+![Header Banner](https://github.com/misterpratham)
 
 ## 🚀 About Me
-Hi! I'm Pratham Basnet, a full-stack developer passionate about coding, open source, and solving problems.
+Hi! I'm **Pratham Basnet**, a full-stack developer passionate about coding, open source, and solving problems.
 
 ---
 
@@ -12,20 +12,20 @@ Hi! I'm Pratham Basnet, a full-stack developer passionate about coding, open sou
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![icons8-tailwindcss](https://github.com/user-attachments/assets/8055c7b8-ed05-4154-8d72-d90ec389e8fd)<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 48 48" width="48px" height="48px"><path fill="#00acc1" d="M24,9.604c-6.4,0-10.4,3.199-12,9.597c2.4-3.199,5.2-4.398,8.4-3.599 c1.826,0.456,3.131,1.781,4.576,3.247C27.328,21.236,30.051,24,36,24c6.4,0,10.4-3.199,12-9.598c-2.4,3.199-5.2,4.399-8.4,3.6 c-1.825-0.456-3.13-1.781-4.575-3.247C32.672,12.367,29.948,9.604,24,9.604L24,9.604z M12,24c-6.4,0-10.4,3.199-12,9.598 c2.4-3.199,5.2-4.399,8.4-3.599c1.825,0.457,3.13,1.781,4.575,3.246c2.353,2.388,5.077,5.152,11.025,5.152 c6.4,0,10.4-3.199,12-9.598c-2.4,3.199-5.2,4.399-8.4,3.599c-1.826-0.456-3.131-1.781-4.576-3.246C20.672,26.764,17.949,24,12,24 L12,24z"/></svg>
-![React Logo](https://img.icons8.com/color/48/react-native.png)
-![Bootstrap Logo](https://img.icons8.com/color/48/bootstrap.png)
+![TailwindCSS](https://img.icons8.com/color/48/000000/tailwindcss.png)
+![React](https://img.icons8.com/color/48/react-native.png)
+![Bootstrap](https://img.icons8.com/color/48/bootstrap.png)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
-
-
-
 
 ---
 
 ## 🌟 Featured Projects
 
-[![Project 1 Thumbnail](https://your-image-url/project1.png)](https://github.com/misterpratham/qrcode)
-[![Project 2 Thumbnail](https://your-image-url/project2.png)](https://github.com/misterpratham/Password-Encryption)
+[![QR Code Generator](https://your-image-url/project1.png)](https://github.com/misterpratham/qrcode)
+**QR Code Generator**: A simple app that generates QR codes for any URL.
+
+[![Password Encryption](https://your-image-url/project2.png)](https://github.com/misterpratham/Password-Encryption)
+**Password Encryption**: A tool to securely encrypt and decrypt passwords.
 
 ---
 
@@ -36,7 +36,7 @@ Hi! I'm Pratham Basnet, a full-stack developer passionate about coding, open sou
 
 ---
 
-### Connect with Me
+### 🤝 Connect with Me
 
 [![Facebook](https://img.icons8.com/color/50/000000/facebook.png)](https://www.facebook.com/basnetpratham)
 [![Instagram](https://img.icons8.com/color/50/000000/instagram.png)](https://www.instagram.com/basnetpratham)
@@ -44,3 +44,7 @@ Hi! I'm Pratham Basnet, a full-stack developer passionate about coding, open sou
 [![Portfolio](https://img.icons8.com/color/50/000000/domain.png)](https://misterpratham.github.io/Pratham-Basnet)
 [![Email](https://img.icons8.com/color/50/000000/email.png)](mailto:prathambasnet963@gmail.com)
 [![LinkedIn](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/prathambasnet99/)
+
+---
+
+**Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate or chat about web development!** 😄
