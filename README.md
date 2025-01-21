@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
-![![image](https://github.com/user-attachments/assets/e1a88ec2-5c0e-44f0-ae55-05911d617526)
-](https://github.com/misterpratham)
+[![Header](https://github.com/user-attachments/assets/ae05e736-5dc5-4ca5-a9d6-1bd66c40165f)](https://misterpratham.github.io/Pratham-Basnet/)
+
 
 ## 🚀 About Me
 Hi! I'm **Pratham Basnet**, a full-stack developer passionate about coding, open source, and solving problems.
@@ -25,7 +25,7 @@ Hi! I'm **Pratham Basnet**, a full-stack developer passionate about coding, open
 <a href="https://github.com/misterpratham/qrcode">
   <img src="https://github.com/user-attachments/assets/e871ba55-5711-4733-8aec-24bef40cc3a9" alt="QR Code Generator" height="48px">
 </a>  
-<center><b>QR Code Generator-0--------></b> 
+<center><b>QR Code Generator----------></b> 
 A simple app that generates QR codes for any URL.  </center>
 <br>  
 <a href="https://github.com/misterpratham/Password-Encryption">
