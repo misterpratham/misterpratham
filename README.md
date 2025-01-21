@@ -10,13 +10,14 @@ Hi! I'm **Pratham Basnet**, a full-stack developer passionate about coding, open
 
 ## 🛠️ My Skills
 
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
-![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![TailwindCSS](https://img.icons8.com/color/48/000000/tailwindcss.png)
-![React](https://img.icons8.com/color/48/react-native.png)
-![Bootstrap](https://img.icons8.com/color/48/bootstrap.png)
-![Python](https://img.icons8.com/color/48/000000/python.png)
+[![HTML5](https://img.icons8.com/color/48/000000/html-5.png)](https://www.w3schools.com/html/)
+[![CSS3](https://img.icons8.com/color/48/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Adding_interactivity)
+[![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Adding_interactivity)
+<img href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Adding_interactivity" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms; height:48px; " src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png">
+[![TailwindCSS](https://img.icons8.com/color/48/000000/tailwindcss.png)](https://tailwindcss.com/)
+[![React](https://img.icons8.com/color/48/react-native.png)](https://react.dev/)
+[![Bootstrap](https://img.icons8.com/color/48/bootstrap.png)](https://getbootstrap.com/)
+[![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org/)
 
 ---
 
