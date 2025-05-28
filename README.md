@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-[![Header](https://github.com/user-attachments/assets/ae05e736-5dc5-4ca5-a9d6-1bd66c40165f)](https://misterpratham.github.io/Pratham-Basnet/)
+[![Header](https://github.com/user-attachments/assets/ae05e736-5dc5-4ca5-a9d6-1bd66c40165f)](https://misterpratham.github.io/website/)
 
 
 ## 🚀 About Me
